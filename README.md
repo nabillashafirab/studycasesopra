@@ -10,8 +10,14 @@
 - **data_transaksi.csv**  
   Dataset transaksi yang berisi catatan pembelian pelanggan.
 
+- **linkAIprompting.txt**  
+  Link percakapan ChatGPT yang berisikan hasil prompting test.
+
 - **MasterData.csv**  
   Gabungan dari berbagai dataset (pelanggan, produk, transaksi) sebagai master data untuk analisis.
+
+- **promptingtest.md**  
+  Daftar pertanyaan dan jawaban hasil AI prompting test.
 
 - **data_processing.ipynb / data_processing.html**  
   Notebook untuk melakukan *data cleaning*, *data preprocessing*, beserta analisis yang detail.
